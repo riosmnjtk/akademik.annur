@@ -1,1 +1,1 @@
-# akedemik.annur
+# akademik.annur
